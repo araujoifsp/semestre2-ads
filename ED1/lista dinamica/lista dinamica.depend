@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1667840312 source:e:\ifsp\2º semestre\ed1\4nov\lista dinamica\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1667840530 e:\ifsp\2º semestre\ed1\4nov\lista dinamica\listaligada.h
+
+1667840738 source:e:\ifsp\2º semestre\ed1\4nov\lista dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"listaLigada.h"
+
